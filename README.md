@@ -2,7 +2,6 @@
 <h3>By User davehyler</h3>
 <!-- Optional Screenshot will show if user places one within the same directory as this readme. -->
 <p><img src = "screenshot.png"></p> 
-<a href = "https://app.screencastify.com/v3/watch/Fv8hiL2bUt0F8jrxcIM4">Video Walkthrough</a><br>
 https://uniquenotetaker.onrender.com/
 <nav>
 <h2>Table Of Contents</h2>
